@@ -5,9 +5,9 @@ import brandIcon from "./assets/icon.png";
 
 const marketplaceUrl = "https://marketplace.visualstudio.com/";
 const proCheckoutUrl =
-  "mailto:hello@stacklens.dev?subject=Stacklens%20Pro%20Subscription";
+  "mailto:bn.4u7agex@gmail.com?subject=Stacklens%20Pro%20Subscription";
 const teamCheckoutUrl =
-  "mailto:hello@stacklens.dev?subject=Stacklens%20Team%20Plan";
+  "mailto:bn.4u7agex@gmail.com?subject=Stacklens%20Team%20Plan";
 
 const supportedTech = ["TypeScript", "React", "Go", "Java", "Python", "JSON"];
 
@@ -84,7 +84,7 @@ const plans = [
   {
     name: "Pro",
     description: "For active developers working on real projects.",
-    price: "₹99",
+    price: "$49",
     suffix: "/month",
     cta: "Subscribe to Pro",
     href: proCheckoutUrl,
@@ -101,7 +101,7 @@ const plans = [
   {
     name: "Team",
     description: "For small teams and growing engineering groups.",
-    price: "₹199",
+    price: "$199",
     suffix: "/month",
     cta: "Contact for Team",
     href: teamCheckoutUrl,
